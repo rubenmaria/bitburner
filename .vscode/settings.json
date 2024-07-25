@@ -11,7 +11,7 @@
     "typescript.preferences.importModuleSpecifier": "non-relative",
 
     // Bitburner Extension Settings
-    "bitburner.scriptRoot": "./dist/",
+    "bitburner.scriptRoot": "./dist",
 
     // Autosave Settings
     "files.autoSave": "off",
@@ -23,4 +23,8 @@
             "snippet": "ns-template"
         },
     ],
+    "bitburner.authToken": "UC2w3VX2W5vvJho8qNLDfTgyXNoCkRuIQINVatfWDk6lUnLeYGWSmDYYcHBuReaG",
+    "bitburner.fileWatcher.enable": true,
+    "bitburner.showFileWatcherEnabledNotification": true,
+    "bitburner.showPushSuccessNotification": true,
 }
